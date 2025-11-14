@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Code Editor",
+  "description": "An intelligent code editor that reads your web application from a GitHub project link and applies edits based on your instructions, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
